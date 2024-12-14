@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kids_story_generator/story_generator.dart';
+import 'package:kids_story_generator/view/story_generator.dart';
 
 void main() {
   runApp(const MainApp());
