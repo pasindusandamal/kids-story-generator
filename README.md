@@ -9,9 +9,8 @@
 | 🤖 AI Stories | Generate unique stories using Ollama AI |
 | 👶 Kid-Friendly | Safe and educational content for children |
 | 🎯 Simple UI | Intuitive and easy-to-use interface |
-| ⚡ Real-time | Instant story generation with live feedback |
 | 🛡️ Error Handling | Robust error management and loading states |
-| 📱 Responsive | Works on all screen sizes |
+
 
 ## 🚀 Prerequisites
 
