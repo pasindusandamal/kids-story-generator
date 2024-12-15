@@ -113,8 +113,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-<div align="center">
-  Made with ❤️ for kids and education
-  
-  [Report Bug](https://github.com/yourusername/repo/issues) · [Request Feature](https://github.com/yourusername/repo/issues)
-</div>
